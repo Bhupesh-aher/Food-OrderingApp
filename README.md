@@ -43,4 +43,4 @@ Best Practices Followed
 Future Improvements
 Implement user authentication and allow users to save their cart and order history.
 Add a search functionality for restaurants and dishes.
-Improve accessibility features.
+Improve accessibility features.  
